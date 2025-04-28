@@ -1,4 +1,7 @@
 # Reto_2
+
+Diagrama de clases para un juego de Poker:
+
 ```mermaid
 classDiagram
     class Carta {
